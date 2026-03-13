@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hrrsshuu@rediffmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/sq1qsdt6jd](https://flowcv.com/resume/1ed26mtrtao9)](https://drive.google.com/file/d/1xz9uchk8YWxGP8WNS8sFLPrgdaVuCSWQ/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1xz9uchk8YWxGP8WNS8sFLPrgdaVuCSWQ/view?usp=drive_link)
 
 - ⚡ Fun fact **I am nyctophile**
 
