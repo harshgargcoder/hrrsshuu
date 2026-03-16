@@ -1,21 +1,113 @@
-<h1 align="center">Hi 👋, I'm Harsh Garg</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋 I'm Harsh Garg</h1>
+<h3 align="center">Full-Stack Developer | React • Next.js • AI Powered Apps</h3>
 
-- 🌱 I’m currently learning **React Native**
-
-- 📫 How to reach me **hrrsshuu@rediffmail.com**
-
-- 📄 Know about my experiences (https://drive.google.com/file/d/1xz9uchk8YWxGP8WNS8sFLPrgdaVuCSWQ/view?usp=drive_link)
-
-- ⚡ Fun fact **I am nyctophile**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshzak" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hrrsshuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hrrsshuu" height="30" width="40" /></a>
-<a href="https://fb.com/harshzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshzak" height="30" width="40" /></a>
-<a href="https://instagram.com/hrsshuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrsshuu" height="30" width="40" /></a>
+<p align="center">
+Building scalable web apps, AI integrations, and modern UI experiences.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="mailto:harsh.garg123456@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/harshgargcoder">LinkedIn</a> •
+<a href="https://github.com/harshgargcoder">GitHub</a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 💻 Full-Stack Web Developer from India  
+- 🚀 Currently building **LegalDigest** (AI-powered legal news platform)  
+- 📱 Learning **React Native**  
+- 🧠 Interested in **AI integrations & scalable web apps**  
+- 🌙 Fun fact: *Nyctophile — I do my best coding at night*
+
+---
+
+# 🚀 Featured Project
+
+## ⚖️ LegalDigest
+**AI-powered legal news aggregation platform**
+
+**Tech Stack**
+
+Next.js • TypeScript • Supabase • PostgreSQL • Tailwind • Gemini AI
+
+**Features**
+
+✔ AI generated article summaries  
+✔ RSS aggregation from 9+ legal sources  
+✔ Knowledge graph visualization of case relationships  
+✔ Bookmarking and personalized feeds  
+✔ Real-time trending legal news  
+
+🔗 **Project Link:**  
+https://legaldigest.vercel.app
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### Databases
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+
+### Tools & Cloud
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" height="40"/>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshgargcoder&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshgargcoder&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgargcoder&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/harshgargcoder">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/hrsshuu">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:harsh.garg123456@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+⭐ *If you like my projects, consider giving them a star!*
